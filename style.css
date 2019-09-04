@@ -266,6 +266,15 @@ li {
   width: inherit;
   height: 350px;
   margin-bottom: 30px;
+  background-size: cover;
+}
+
+.about .hkbs2 {
+  background-image: url('hkbs2.jpg');
+}
+
+.about .hkdsc3 {
+  background-image: url('hkdsc3.jpg');
 }
 
 .about .text-wrapper {
